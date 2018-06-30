@@ -1,0 +1,20 @@
+Data description:
+Internet Advertisements dataset represents a set of possible advertisements on
+the internet. The dataset is 20 years old, donated July 1st, 1998 to the UCI ML
+Repository. It contains 3279 instances and 1558 attributes. Three of the attributes
+are continuous while all other attributes are binary.
+
+Binary questions:
+Is image height a predictor of advertisement?
+Do caption terms predict an advertisement?
+
+Non-binary questions:
+Which attributes are the best predictors of an advertisement?
+Of the advertisements, how many have caption terms?
+
+Future improvements to data set:
+Image color
+Image position on webpage
+Text on webpage where image resides
+
+Source: https://archive.ics.uci.edu/ml/datasets/Internet+Advertisements
